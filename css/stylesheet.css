@@ -15,11 +15,18 @@ body {
 	padding: 0;
 }
 
+
+
 .col-centered {
   float: none;
   margin: 0 auto;
 }
 
 .fa {
-	color: blue;
+	color: #3498db;
+}
+
+#name {
+	font-weight: bold;
+	font-size: 2em;
 }
