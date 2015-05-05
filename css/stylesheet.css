@@ -5,3 +5,21 @@ body {
 .body-content {
 	margin-top: 20px;
 }
+
+.about-left li {
+	display: inline;
+}
+
+.about-left ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+.col-centered {
+  float: none;
+  margin: 0 auto;
+}
+
+.fa {
+	color: blue;
+}
